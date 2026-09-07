@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+/output/
+/research/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.luajit
+*.dll
+*.exe
+*.pdb

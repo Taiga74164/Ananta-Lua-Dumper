@@ -1,0 +1,3 @@
+[submodule "vendor/ljd"]
+	path = vendor/ljd
+	url = https://github.com/Aussiemon/ljd.git
